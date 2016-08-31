@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Appium/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Testing/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/extentreports-java-v2.04/extentreports-java-2.04/extentreports-java-2.04.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/javafx-file-uploader-97cd7d1841ea/javafx-file-uploader-97cd7d1841ea/lib/jaf-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/javafx-file-uploader-97cd7d1841ea/javafx-file-uploader-97cd7d1841ea/lib/javamail-1.4.2.jar"/>
+	<classpathentry kind="lib" path="D:/Appium/reportng-1.1.4/reportng-1.1.4/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Appium/reportng-1.1.4/reportng-1.1.4/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Appium/guice-3.0.jar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Cucumber Selenium/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Cucumber Selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarfaraj Doni/Downloads/XSLT Report/XSLT Report/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sarfaraj Doni/Downloads/XSLT Report/XSLT Report/lib/SaxonLiaison.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

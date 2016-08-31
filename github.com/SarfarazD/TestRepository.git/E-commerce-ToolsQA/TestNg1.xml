@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteName" thread ="2">
+    
+     
+    <test name="Grid Execution Suite" >
+        
+       
+        <classes>
+            <class name="test.MakeMyTrip" />
+            <class name="test.WindowHandleAdvance" />
+           
+        </classes>
+    </test>
+</suite>

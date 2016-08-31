@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SuiteName]" parallel="methods">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Grid Execution Suite(failed)" parallel="methods">
+    <classes>
+      <class name="test.MultipleBrowserGrid">
+        <methods>
+          <include name="verifyTitleTest" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- test.MultipleBrowserGrid -->
+      <class name="test.Grid">
+        <methods>
+          <include name="verifyTitleTest"/>
+        </methods>
+      </class> <!-- test.Grid -->
+    </classes>
+  </test> <!-- Grid Execution Suite(failed) -->
+</suite> <!-- Failed suite [SuiteName] -->

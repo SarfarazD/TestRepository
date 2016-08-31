@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteName" parallel="methods">
+    
+     <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+    <test name="Grid Execution Suite" allow-return-values="true">
+        
+       
+        <classes>
+            <class name="test.MultipleBrowserGrid" />
+            <class name="test.Grid" />
+           
+        </classes>
+    </test>
+</suite>

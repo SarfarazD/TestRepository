@@ -14,7 +14,7 @@ public class Login_PageObjects {
 	
 	//Here all the page objects available related with Login
 	
-	@FindBy(id="log")
+	@FindBy(id="log") // commit chanes
 	WebElement usn;
 	
 	@FindBy(id="pwd")

@@ -16,7 +16,7 @@ public class AutoITTest {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 
-	    driver = new FirefoxDriver();vbhvfh
+	    driver = new FirefoxDriver();
 
 	    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 

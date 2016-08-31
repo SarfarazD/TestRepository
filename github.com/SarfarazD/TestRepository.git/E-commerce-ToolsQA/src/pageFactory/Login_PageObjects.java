@@ -17,7 +17,7 @@ public class Login_PageObjects {
 	@FindBy(id="log")
 	WebElement usn;
 	
-	@FindBy(id="pwd")//Test-1
+	@FindBy(id="pwd")//Test-1 fvhfvhfvhfv ghfv 
 	WebElement pwd;
 	
 	@FindBy(id="login")

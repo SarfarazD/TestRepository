@@ -20,7 +20,7 @@ public class Login_PageObjects {
 	@FindBy(id="pwd")//Test-1 fvhfvhfvhfv ghfv  dgdfgd
 	WebElement pwd;
 	
-	@FindBy(id="login")
+	@FindBy(id="login") //Local
 	WebElement send;
 	
 	/*public void EnterUsername(String username)

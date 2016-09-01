@@ -20,7 +20,7 @@ public class Login_PageObjects {
 	@FindBy(id="pwd") //my changes
 	WebElement pwd;  
 	
-	@FindBy(id="login") // i am done from my side
+	@FindBy(id="login") //                           i am done from my side
 	WebElement send;
 	
 	/*public void EnterUsername(String username)

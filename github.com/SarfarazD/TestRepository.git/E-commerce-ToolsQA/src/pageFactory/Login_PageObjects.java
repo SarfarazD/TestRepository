@@ -17,10 +17,10 @@ public class Login_PageObjects {
 	@FindBy(id="log") // commit chanes
 	WebElement usn;
 	
-	@FindBy(id="pwd")
-	WebElement pwd;
+	@FindBy(id="pwd") //my changes
+	WebElement pwd;  
 	
-	@FindBy(id="login")
+	@FindBy(id="login") // i am done from my side
 	WebElement send;
 	
 	/*public void EnterUsername(String username)

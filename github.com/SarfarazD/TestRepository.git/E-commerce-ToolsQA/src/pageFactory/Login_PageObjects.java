@@ -11,7 +11,8 @@ import utility.Constant;
 
 public class Login_PageObjects {
 	
-	//Tester : Sarfaraz Doni
+	//Author : Sarfaraz Doni
+	
 	//Here all the page objects available related with Login
 	
 	@FindBy(id="log")

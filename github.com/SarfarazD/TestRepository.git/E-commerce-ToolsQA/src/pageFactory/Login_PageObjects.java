@@ -11,16 +11,16 @@ import utility.Constant;
 
 public class Login_PageObjects {
 	
-	
+	//Tester : Sarfaraz Doni
 	//Here all the page objects available related with Login
 	
 	@FindBy(id="log")
 	WebElement usn;
 	
-	@FindBy(id="pwd")//Test-1 fvhfvhfvhfv ghfv  dgdfgd
+	@FindBy(id="pwd")
 	WebElement pwd;
 	
-	@FindBy(id="login") //Local
+	@FindBy(id="login") 
 	WebElement send;
 	
 	/*public void EnterUsername(String username)

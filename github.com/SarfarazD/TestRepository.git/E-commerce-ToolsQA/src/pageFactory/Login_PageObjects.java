@@ -12,15 +12,15 @@ import utility.Constant;
 public class Login_PageObjects {
 	
 	
-	//Here all the page objects available related with Login
 	
-	@FindBy(id="log") // commit chanes
+	
+	@FindBy(id="log")  // nishi is here for work
 	WebElement usn;
 	
-	@FindBy(id="pwd") //my changes
+	@FindBy(id="pwd") 
 	WebElement pwd;  
 	
-	@FindBy(id="login") //                           
+	@FindBy(id="login")                           
 	WebElement send;
 	
 	/*public void EnterUsername(String username)

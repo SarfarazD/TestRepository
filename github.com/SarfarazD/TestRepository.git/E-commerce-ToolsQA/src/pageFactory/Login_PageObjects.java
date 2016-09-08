@@ -11,6 +11,7 @@ import utility.Constant;
 
 public class Login_PageObjects {
 	
+	//Author : Sarfaraz Doni
 	
 	
 	
@@ -20,7 +21,11 @@ public class Login_PageObjects {
 	@FindBy(id="pwd") 
 	WebElement pwd;  
 	
+<<<<<<< HEAD
 	@FindBy(id="login")                           
+=======
+	@FindBy(id="login") 
+>>>>>>> branch 'master' of https://github.com/SarfarazD/TestRepository.git
 	WebElement send;
 	
 	/*public void EnterUsername(String username)
